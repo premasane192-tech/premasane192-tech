@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**premasane192-tech/premasane192-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Prem%20Asane&fontSize=60&fontColor=00ff9c&animation=fadeIn&fontAlignY=38&desc=BCA%20Student%20%7C%20Full%20Stack%20Builder%20%7C%20Nagpur&descAlignY=60&descSize=18" width="100%"/>
 
@@ -38,7 +22,7 @@ class Prem:
         self.location = "Nagpur, India 🇮🇳"
         self.role     = "BCA Student & Aspiring Full Stack Developer"
         self.stack    = ["PHP", "MySQL", "Python", "HTML", "CSS", "JavaScript"]
-        self.focus    = "Building software for real businesses"
+        self.focus    = "Building software and webiste for real businesses"
         self.status   = "Open to internships & freelance projects"
 
     def motto(self):
